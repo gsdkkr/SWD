@@ -1,0 +1,1 @@
+SELECT *, CAST(MyDateTimeCol AS time) FROM klacht
